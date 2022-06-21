@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hoyahozz" alt="hoyahozz" /> </p>
-
 ![Andorid Header](https://user-images.githubusercontent.com/85336456/174700400-215af375-9fa9-40cc-95d1-05c9cd5ffe2e.png)
 
 <p align="center">
