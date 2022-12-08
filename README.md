@@ -1,9 +1,9 @@
 ![Andorid Header](https://user-images.githubusercontent.com/85336456/174700400-215af375-9fa9-40cc-95d1-05c9cd5ffe2e.png)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoyahozz&show_icons=true&theme=vue&border_color=DDDDDD" alt="hoyahozz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoyahozz&show_icons=true&theme=vue&bg_color=FFFFFF00&hide_border=true&text_color=41b883&icon_color=273849" alt="hoyahozz" />
   </br>
-  <img src ="https://streak-stats.demolab.com?user=hoyahozz&theme=vue&border=DDDDDD">
+  <img src ="https://streak-stats.demolab.com?user=hoyahozz&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
 </p>
 
 <p align="center">
